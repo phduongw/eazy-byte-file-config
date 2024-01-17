@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to EazyBank ACCOUNTS SERVER related to QA APIs"
+  message: "Welcome to EazyBank ACCOUNTS related to QA APIs"
   contactDetails:
     name: "Egan Pham - QA Lead"
     email: "{cipher}828a17d4b1cf401ee7b31639a6c60c9516cfbf6981b954c701836744ed8efd6146e608a282d8cba39cff033be29a6f14"
