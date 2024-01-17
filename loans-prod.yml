@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 loans:
-  message: "Welcome to EazyBank loans related to Prod APIs"
+  message: "Welcome to EazyBank loans related to Production APIs"
   contactDetails:
     name: "Egan Pham - Prod Owner"
     email: "eganpham.99@gmail.com"
