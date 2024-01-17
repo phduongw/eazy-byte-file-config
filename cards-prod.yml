@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 cards:
-  message: "Welcome to EazyBank cards related to Prod APIs"
+  message: "Welcome to EazyBank CARDS related to Production APIs"
   contactDetails:
     name: "Egan Pham - Prod Owner"
     email: "eganpham.99@gmail.com"
